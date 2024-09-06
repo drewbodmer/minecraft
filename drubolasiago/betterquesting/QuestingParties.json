@@ -1,0 +1,26 @@
+{
+	"parties:9": {
+		"0:10": {
+			"members:9": {
+				"0:10": {
+					"uuid:8": "5d985324-97b3-4aaf-a406-8707b418fd68",
+					"status:8": "MEMBER"
+				},
+				"1:10": {
+					"uuid:8": "3f98fff4-b222-41c3-b8f6-4094fdcabfe6",
+					"status:8": "MEMBER"
+				},
+				"2:10": {
+					"uuid:8": "3954960f-e987-4047-b7e6-7bac6924b513",
+					"status:8": "OWNER"
+				}
+			},
+			"partyID:3": 0,
+			"properties:10": {
+				"betterquesting:10": {
+					"name:8": "yingus"
+				}
+			}
+		}
+	}
+}

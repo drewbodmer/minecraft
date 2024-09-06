@@ -1,0 +1,29 @@
+{
+	"nameCache:9": {
+		"0:10": {
+			"name:8": "nik",
+			"isOP:1": 0,
+			"uuid:8": "5d985324-97b3-4aaf-a406-8707b418fd68"
+		},
+		"1:10": {
+			"name:8": "VillagerShawn1",
+			"isOP:1": 0,
+			"uuid:8": "5bf78359-b59e-4eac-acb8-78117caa36dd"
+		},
+		"2:10": {
+			"name:8": "duromik",
+			"isOP:1": 0,
+			"uuid:8": "0b3cd349-3511-4f1f-88b7-14e9d61ef538"
+		},
+		"3:10": {
+			"name:8": "AgentLynx",
+			"isOP:1": 1,
+			"uuid:8": "3f98fff4-b222-41c3-b8f6-4094fdcabfe6"
+		},
+		"4:10": {
+			"name:8": "Saltiago",
+			"isOP:1": 0,
+			"uuid:8": "3954960f-e987-4047-b7e6-7bac6924b513"
+		}
+	}
+}

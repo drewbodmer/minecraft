@@ -1,0 +1,13 @@
+// For more info visit https://github.com/GTNewHorizons/ServerUtilities
+
+// AgentLynx
+[3f98fff4b22241c3b8f64094fdcabfe6]
+parent: admin
+
+// nik
+[5d98532497b34aafa4068707b418fd68]
+parent: vip
+
+// Saltiago
+[3954960fe9874047b7e67bac6924b513]
+parent: vip
